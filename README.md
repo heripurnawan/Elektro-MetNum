@@ -13,3 +13,7 @@ Pertemuan 6, 19 Oktober 2024   >> Topik: Solusi sistem persamaan linier (I): eli
 Pertemuan 7, 26 Oktober 2024   >> Topik: Solusi sistem persamaan linier (II): Faktorisasi LU (Lec6)
 
 Pertemuan 8, 02 November 2024` >> Ujian Tengah Semester (UTS)
+
+Pertemuan 9, 09 November 2024   >> Topik: Pencocokan kurva (I): Regresi (Lec7)
+
+Pertemuan 10, 16 November 2024   >> Topik: Pencocokan kurva (II): Interpolasi
