@@ -16,4 +16,4 @@ Pertemuan 8, 02 November 2024` >> Ujian Tengah Semester (UTS)
 
 Pertemuan 9, 09 November 2024   >> Topik: Pencocokan kurva (I): Regresi (Lec7)
 
-Pertemuan 10, 16 November 2024   >> Topik: Pencocokan kurva (II): Interpolasi
+Pertemuan 10, 16 November 2024   >> Topik: Pencocokan kurva (II): Interpolasi (silahkan merujuk ke Buku Referensi)
